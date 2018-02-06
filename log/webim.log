@@ -1,0 +1,860 @@
+[2017-11-11 14:45:57]	INFO	SwooleFramework[#0]. running. on 0.0.0.0:9503
+[2017-11-11 14:57:41]	INFO	WebSocket connection #1 is connected
+[2017-11-11 14:57:41]	INFO	NewFrame finish. Opcode=1|Length=113
+[2017-11-11 14:57:41]	INFO	[1] opcode=1
+[2017-11-11 14:57:41]	INFO	onMessage #1: {"cmd":"login","name":"disen","avatar":"http://qzapp.qlogo.cn/qzapp/221403/00B00E102B5BDB994626DE606CB3FE15/100"}
+[2017-11-11 14:57:41]	INFO	NewFrame finish. Opcode=1|Length=19
+[2017-11-11 14:57:41]	INFO	[1] opcode=1
+[2017-11-11 14:57:41]	INFO	onMessage #1: {"cmd":"getOnline"}
+[2017-11-11 14:57:41]	INFO	NewFrame finish. Opcode=1|Length=20
+[2017-11-11 14:57:41]	INFO	[1] opcode=1
+[2017-11-11 14:57:41]	INFO	onMessage #1: {"cmd":"getHistory"}
+[2017-11-11 14:57:47]	INFO	NewFrame finish. Opcode=8|Length=2
+[2017-11-11 14:57:47]	INFO	[1] opcode=8
+[2017-11-11 14:57:47]	INFO	server close connection[1]. reason: client active close, code=1001, close_code = 1002
+[2017-11-11 14:57:47]	INFO	onOffline: 1
+[2017-11-11 14:57:48]	INFO	WebSocket connection #2 is connected
+[2017-11-11 14:57:48]	INFO	NewFrame finish. Opcode=1|Length=113
+[2017-11-11 14:57:48]	INFO	[2] opcode=1
+[2017-11-11 14:57:48]	INFO	onMessage #2: {"cmd":"login","name":"disen","avatar":"http://qzapp.qlogo.cn/qzapp/221403/00B00E102B5BDB994626DE606CB3FE15/100"}
+[2017-11-11 14:57:48]	INFO	NewFrame finish. Opcode=1|Length=19
+[2017-11-11 14:57:48]	INFO	[2] opcode=1
+[2017-11-11 14:57:48]	INFO	onMessage #2: {"cmd":"getOnline"}
+[2017-11-11 14:57:48]	INFO	NewFrame finish. Opcode=1|Length=20
+[2017-11-11 14:57:48]	INFO	[2] opcode=1
+[2017-11-11 14:57:48]	INFO	onMessage #2: {"cmd":"getHistory"}
+[2017-11-11 14:57:59]	INFO	NewFrame finish. Opcode=1|Length=69
+[2017-11-11 14:57:59]	INFO	[2] opcode=1
+[2017-11-11 14:57:59]	INFO	onMessage #2: {"cmd":"message","from":2,"channal":0,"data":"1231312","type":"text"}
+[2017-11-11 14:58:02]	INFO	NewFrame finish. Opcode=1|Length=65
+[2017-11-11 14:58:02]	INFO	[2] opcode=1
+[2017-11-11 14:58:02]	INFO	onMessage #2: {"cmd":"message","from":2,"channal":0,"data":"#4#","type":"text"}
+[2017-11-11 14:58:44]	INFO	NewFrame finish. Opcode=8|Length=2
+[2017-11-11 14:58:44]	INFO	[2] opcode=8
+[2017-11-11 14:58:44]	INFO	server close connection[2]. reason: client active close, code=1001, close_code = 1002
+[2017-11-11 14:58:44]	INFO	onOffline: 2
+[2017-11-11 14:58:44]	INFO	WebSocket connection #3 is connected
+[2017-11-11 14:58:44]	INFO	NewFrame finish. Opcode=1|Length=113
+[2017-11-11 14:58:44]	INFO	[3] opcode=1
+[2017-11-11 14:58:44]	INFO	onMessage #3: {"cmd":"login","name":"disen","avatar":"http://qzapp.qlogo.cn/qzapp/221403/00B00E102B5BDB994626DE606CB3FE15/100"}
+[2017-11-11 14:58:44]	INFO	NewFrame finish. Opcode=1|Length=19
+[2017-11-11 14:58:44]	INFO	[3] opcode=1
+[2017-11-11 14:58:44]	INFO	onMessage #3: {"cmd":"getOnline"}
+[2017-11-11 14:58:44]	INFO	NewFrame finish. Opcode=1|Length=20
+[2017-11-11 14:58:44]	INFO	[3] opcode=1
+[2017-11-11 14:58:44]	INFO	onMessage #3: {"cmd":"getHistory"}
+[2017-11-11 14:58:49]	INFO	NewFrame finish. Opcode=1|Length=69
+[2017-11-11 14:58:49]	INFO	[3] opcode=1
+[2017-11-11 14:58:49]	INFO	onMessage #3: {"cmd":"message","from":3,"channal":0,"data":"2432424","type":"text"}
+[2017-11-11 14:58:57]	INFO	NewFrame finish. Opcode=1|Length=218
+[2017-11-11 14:58:57]	INFO	[3] opcode=1
+[2017-11-11 14:58:57]	INFO	onMessage #3: {"cmd":"message","from":3,"channal":0,"data":"{\"thumb\":\"\\/uploads\\/201711\\/11\\/835370712398_136x136.jpg\",\"url\":\"\\/uploads\\/201711\\/11\\/835370712398.jpg\",\"size\":55769,\"type\":\"jpg\"}","type":"image"}
+[2017-11-11 15:01:38]	INFO	NewFrame finish. Opcode=8|Length=2
+[2017-11-11 15:01:38]	INFO	[3] opcode=8
+[2017-11-11 15:01:38]	INFO	server close connection[3]. reason: client active close, code=1001, close_code = 1002
+[2017-11-11 15:01:38]	INFO	onOffline: 3
+[2017-11-11 15:01:38]	INFO	WebSocket connection #4 is connected
+[2017-11-11 15:01:38]	INFO	NewFrame finish. Opcode=1|Length=113
+[2017-11-11 15:01:38]	INFO	[4] opcode=1
+[2017-11-11 15:01:38]	INFO	onMessage #4: {"cmd":"login","name":"disen","avatar":"http://qzapp.qlogo.cn/qzapp/221403/00B00E102B5BDB994626DE606CB3FE15/100"}
+[2017-11-11 15:01:38]	INFO	NewFrame finish. Opcode=1|Length=19
+[2017-11-11 15:01:38]	INFO	[4] opcode=1
+[2017-11-11 15:01:38]	INFO	onMessage #4: {"cmd":"getOnline"}
+[2017-11-11 15:01:38]	INFO	NewFrame finish. Opcode=1|Length=20
+[2017-11-11 15:01:38]	INFO	[4] opcode=1
+[2017-11-11 15:01:38]	INFO	onMessage #4: {"cmd":"getHistory"}
+[2017-11-11 15:02:44]	INFO	NewFrame finish. Opcode=8|Length=2
+[2017-11-11 15:02:44]	INFO	[4] opcode=8
+[2017-11-11 15:02:44]	INFO	server close connection[4]. reason: client active close, code=1001, close_code = 1002
+[2017-11-11 15:02:44]	INFO	onOffline: 4
+[2017-11-11 15:02:44]	INFO	WebSocket connection #5 is connected
+[2017-11-11 15:02:44]	INFO	NewFrame finish. Opcode=1|Length=113
+[2017-11-11 15:02:44]	INFO	[5] opcode=1
+[2017-11-11 15:02:44]	INFO	onMessage #5: {"cmd":"login","name":"disen","avatar":"http://qzapp.qlogo.cn/qzapp/221403/00B00E102B5BDB994626DE606CB3FE15/100"}
+[2017-11-11 15:02:44]	INFO	NewFrame finish. Opcode=1|Length=19
+[2017-11-11 15:02:44]	INFO	[5] opcode=1
+[2017-11-11 15:02:44]	INFO	onMessage #5: {"cmd":"getOnline"}
+[2017-11-11 15:02:44]	INFO	NewFrame finish. Opcode=1|Length=20
+[2017-11-11 15:02:44]	INFO	[5] opcode=1
+[2017-11-11 15:02:44]	INFO	onMessage #5: {"cmd":"getHistory"}
+[2017-11-11 15:02:45]	INFO	NewFrame finish. Opcode=8|Length=2
+[2017-11-11 15:02:45]	INFO	[5] opcode=8
+[2017-11-11 15:02:45]	INFO	server close connection[5]. reason: client active close, code=1001, close_code = 1002
+[2017-11-11 15:02:45]	INFO	onOffline: 5
+[2017-11-11 15:02:45]	INFO	WebSocket connection #6 is connected
+[2017-11-11 15:02:45]	INFO	NewFrame finish. Opcode=1|Length=113
+[2017-11-11 15:02:45]	INFO	[6] opcode=1
+[2017-11-11 15:02:45]	INFO	onMessage #6: {"cmd":"login","name":"disen","avatar":"http://qzapp.qlogo.cn/qzapp/221403/00B00E102B5BDB994626DE606CB3FE15/100"}
+[2017-11-11 15:02:45]	INFO	NewFrame finish. Opcode=1|Length=19
+[2017-11-11 15:02:45]	INFO	[6] opcode=1
+[2017-11-11 15:02:45]	INFO	onMessage #6: {"cmd":"getOnline"}
+[2017-11-11 15:02:45]	INFO	NewFrame finish. Opcode=1|Length=20
+[2017-11-11 15:02:45]	INFO	[6] opcode=1
+[2017-11-11 15:02:45]	INFO	onMessage #6: {"cmd":"getHistory"}
+[2017-11-11 15:02:50]	INFO	NewFrame finish. Opcode=8|Length=2
+[2017-11-11 15:02:50]	INFO	[6] opcode=8
+[2017-11-11 15:02:50]	INFO	server close connection[6]. reason: client active close, code=1001, close_code = 1002
+[2017-11-11 15:02:50]	INFO	onOffline: 6
+[2017-11-11 15:02:50]	INFO	WebSocket connection #7 is connected
+[2017-11-11 15:02:50]	INFO	NewFrame finish. Opcode=1|Length=113
+[2017-11-11 15:02:50]	INFO	[7] opcode=1
+[2017-11-11 15:02:50]	INFO	onMessage #7: {"cmd":"login","name":"disen","avatar":"http://qzapp.qlogo.cn/qzapp/221403/00B00E102B5BDB994626DE606CB3FE15/100"}
+[2017-11-11 15:02:50]	INFO	NewFrame finish. Opcode=1|Length=19
+[2017-11-11 15:02:50]	INFO	[7] opcode=1
+[2017-11-11 15:02:50]	INFO	onMessage #7: {"cmd":"getOnline"}
+[2017-11-11 15:02:50]	INFO	NewFrame finish. Opcode=1|Length=20
+[2017-11-11 15:02:50]	INFO	[7] opcode=1
+[2017-11-11 15:02:50]	INFO	onMessage #7: {"cmd":"getHistory"}
+[2017-11-11 15:05:38]	INFO	NewFrame finish. Opcode=1|Length=75
+[2017-11-11 15:05:38]	INFO	[7] opcode=1
+[2017-11-11 15:05:38]	INFO	onMessage #7: {"cmd":"message","from":7,"channal":0,"data":"1233131311231","type":"text"}
+[2017-11-11 15:05:43]	INFO	NewFrame finish. Opcode=1|Length=80
+[2017-11-11 15:05:43]	INFO	[7] opcode=1
+[2017-11-11 15:05:43]	INFO	onMessage #7: {"cmd":"message","from":7,"channal":0,"data":"123131313123131313","type":"text"}
+[2017-11-11 15:06:04]	INFO	NewFrame finish. Opcode=1|Length=85
+[2017-11-11 15:06:04]	INFO	[7] opcode=1
+[2017-11-11 15:06:04]	INFO	onMessage #7: {"cmd":"message","from":7,"channal":0,"data":"11111111111111111111111","type":"text"}
+[2017-11-11 15:06:09]	INFO	NewFrame finish. Opcode=1|Length=65
+[2017-11-11 15:06:09]	INFO	[7] opcode=1
+[2017-11-11 15:06:09]	INFO	onMessage #7: {"cmd":"message","from":7,"channal":0,"data":"#2#","type":"text"}
+[2017-11-11 15:06:18]	INFO	NewFrame finish. Opcode=8|Length=2
+[2017-11-11 15:06:18]	INFO	[7] opcode=8
+[2017-11-11 15:06:18]	INFO	server close connection[7]. reason: client active close, code=1001, close_code = 1002
+[2017-11-11 15:06:18]	INFO	onOffline: 7
+[2017-11-11 15:06:18]	INFO	WebSocket connection #8 is connected
+[2017-11-11 15:06:18]	INFO	NewFrame finish. Opcode=1|Length=113
+[2017-11-11 15:06:18]	INFO	[8] opcode=1
+[2017-11-11 15:06:18]	INFO	onMessage #8: {"cmd":"login","name":"disen","avatar":"http://qzapp.qlogo.cn/qzapp/221403/00B00E102B5BDB994626DE606CB3FE15/100"}
+[2017-11-11 15:06:18]	INFO	NewFrame finish. Opcode=1|Length=19
+[2017-11-11 15:06:18]	INFO	[8] opcode=1
+[2017-11-11 15:06:18]	INFO	onMessage #8: {"cmd":"getOnline"}
+[2017-11-11 15:06:18]	INFO	NewFrame finish. Opcode=1|Length=20
+[2017-11-11 15:06:18]	INFO	[8] opcode=1
+[2017-11-11 15:06:18]	INFO	onMessage #8: {"cmd":"getHistory"}
+[2017-11-11 15:08:53]	INFO	NewFrame finish. Opcode=8|Length=2
+[2017-11-11 15:08:53]	INFO	[8] opcode=8
+[2017-11-11 15:08:53]	INFO	server close connection[8]. reason: client active close, code=1001, close_code = 1002
+[2017-11-11 15:08:53]	INFO	onOffline: 8
+[2017-11-11 15:08:53]	INFO	WebSocket connection #9 is connected
+[2017-11-11 15:08:53]	INFO	NewFrame finish. Opcode=1|Length=113
+[2017-11-11 15:08:53]	INFO	[9] opcode=1
+[2017-11-11 15:08:53]	INFO	onMessage #9: {"cmd":"login","name":"disen","avatar":"http://qzapp.qlogo.cn/qzapp/221403/00B00E102B5BDB994626DE606CB3FE15/100"}
+[2017-11-11 15:08:53]	INFO	NewFrame finish. Opcode=1|Length=19
+[2017-11-11 15:08:53]	INFO	[9] opcode=1
+[2017-11-11 15:08:53]	INFO	onMessage #9: {"cmd":"getOnline"}
+[2017-11-11 15:08:53]	INFO	NewFrame finish. Opcode=1|Length=20
+[2017-11-11 15:08:53]	INFO	[9] opcode=1
+[2017-11-11 15:08:53]	INFO	onMessage #9: {"cmd":"getHistory"}
+[2017-11-11 15:08:54]	INFO	NewFrame finish. Opcode=8|Length=2
+[2017-11-11 15:08:54]	INFO	[9] opcode=8
+[2017-11-11 15:08:54]	INFO	server close connection[9]. reason: client active close, code=1001, close_code = 1002
+[2017-11-11 15:08:54]	INFO	onOffline: 9
+[2017-11-11 15:08:54]	INFO	WebSocket connection #10 is connected
+[2017-11-11 15:08:54]	INFO	NewFrame finish. Opcode=1|Length=113
+[2017-11-11 15:08:54]	INFO	[10] opcode=1
+[2017-11-11 15:08:54]	INFO	onMessage #10: {"cmd":"login","name":"disen","avatar":"http://qzapp.qlogo.cn/qzapp/221403/00B00E102B5BDB994626DE606CB3FE15/100"}
+[2017-11-11 15:08:54]	INFO	NewFrame finish. Opcode=1|Length=19
+[2017-11-11 15:08:54]	INFO	[10] opcode=1
+[2017-11-11 15:08:54]	INFO	onMessage #10: {"cmd":"getOnline"}
+[2017-11-11 15:08:54]	INFO	NewFrame finish. Opcode=1|Length=20
+[2017-11-11 15:08:54]	INFO	[10] opcode=1
+[2017-11-11 15:08:54]	INFO	onMessage #10: {"cmd":"getHistory"}
+[2017-11-11 15:08:55]	INFO	NewFrame finish. Opcode=8|Length=2
+[2017-11-11 15:08:55]	INFO	[10] opcode=8
+[2017-11-11 15:08:55]	INFO	server close connection[10]. reason: client active close, code=1001, close_code = 1002
+[2017-11-11 15:08:55]	INFO	onOffline: 10
+[2017-11-11 15:08:55]	INFO	WebSocket connection #11 is connected
+[2017-11-11 15:08:55]	INFO	NewFrame finish. Opcode=1|Length=113
+[2017-11-11 15:08:55]	INFO	[11] opcode=1
+[2017-11-11 15:08:55]	INFO	onMessage #11: {"cmd":"login","name":"disen","avatar":"http://qzapp.qlogo.cn/qzapp/221403/00B00E102B5BDB994626DE606CB3FE15/100"}
+[2017-11-11 15:08:55]	INFO	NewFrame finish. Opcode=1|Length=19
+[2017-11-11 15:08:55]	INFO	[11] opcode=1
+[2017-11-11 15:08:55]	INFO	onMessage #11: {"cmd":"getOnline"}
+[2017-11-11 15:08:55]	INFO	NewFrame finish. Opcode=1|Length=20
+[2017-11-11 15:08:55]	INFO	[11] opcode=1
+[2017-11-11 15:08:55]	INFO	onMessage #11: {"cmd":"getHistory"}
+[2017-11-11 15:08:56]	INFO	NewFrame finish. Opcode=8|Length=2
+[2017-11-11 15:08:56]	INFO	[11] opcode=8
+[2017-11-11 15:08:56]	INFO	server close connection[11]. reason: client active close, code=1001, close_code = 1002
+[2017-11-11 15:08:56]	INFO	onOffline: 11
+[2017-11-11 15:08:56]	INFO	WebSocket connection #12 is connected
+[2017-11-11 15:08:56]	INFO	NewFrame finish. Opcode=1|Length=113
+[2017-11-11 15:08:56]	INFO	[12] opcode=1
+[2017-11-11 15:08:56]	INFO	onMessage #12: {"cmd":"login","name":"disen","avatar":"http://qzapp.qlogo.cn/qzapp/221403/00B00E102B5BDB994626DE606CB3FE15/100"}
+[2017-11-11 15:08:56]	INFO	NewFrame finish. Opcode=1|Length=19
+[2017-11-11 15:08:56]	INFO	[12] opcode=1
+[2017-11-11 15:08:56]	INFO	onMessage #12: {"cmd":"getOnline"}
+[2017-11-11 15:08:56]	INFO	NewFrame finish. Opcode=1|Length=20
+[2017-11-11 15:08:56]	INFO	[12] opcode=1
+[2017-11-11 15:08:56]	INFO	onMessage #12: {"cmd":"getHistory"}
+[2017-11-11 15:08:57]	INFO	NewFrame finish. Opcode=8|Length=2
+[2017-11-11 15:08:57]	INFO	[12] opcode=8
+[2017-11-11 15:08:57]	INFO	server close connection[12]. reason: client active close, code=1001, close_code = 1002
+[2017-11-11 15:08:57]	INFO	onOffline: 12
+[2017-11-11 15:08:57]	INFO	WebSocket connection #13 is connected
+[2017-11-11 15:08:57]	INFO	NewFrame finish. Opcode=1|Length=113
+[2017-11-11 15:08:57]	INFO	[13] opcode=1
+[2017-11-11 15:08:57]	INFO	onMessage #13: {"cmd":"login","name":"disen","avatar":"http://qzapp.qlogo.cn/qzapp/221403/00B00E102B5BDB994626DE606CB3FE15/100"}
+[2017-11-11 15:08:57]	INFO	NewFrame finish. Opcode=1|Length=19
+[2017-11-11 15:08:57]	INFO	[13] opcode=1
+[2017-11-11 15:08:57]	INFO	onMessage #13: {"cmd":"getOnline"}
+[2017-11-11 15:08:57]	INFO	NewFrame finish. Opcode=1|Length=20
+[2017-11-11 15:08:57]	INFO	[13] opcode=1
+[2017-11-11 15:08:57]	INFO	onMessage #13: {"cmd":"getHistory"}
+[2017-11-11 15:08:57]	INFO	NewFrame finish. Opcode=8|Length=2
+[2017-11-11 15:08:57]	INFO	[13] opcode=8
+[2017-11-11 15:08:57]	INFO	server close connection[13]. reason: client active close, code=1001, close_code = 1002
+[2017-11-11 15:08:57]	INFO	onOffline: 13
+[2017-11-11 15:08:57]	INFO	WebSocket connection #14 is connected
+[2017-11-11 15:08:57]	INFO	NewFrame finish. Opcode=1|Length=113
+[2017-11-11 15:08:57]	INFO	[14] opcode=1
+[2017-11-11 15:08:57]	INFO	onMessage #14: {"cmd":"login","name":"disen","avatar":"http://qzapp.qlogo.cn/qzapp/221403/00B00E102B5BDB994626DE606CB3FE15/100"}
+[2017-11-11 15:08:57]	INFO	NewFrame finish. Opcode=1|Length=19
+[2017-11-11 15:08:57]	INFO	[14] opcode=1
+[2017-11-11 15:08:57]	INFO	onMessage #14: {"cmd":"getOnline"}
+[2017-11-11 15:08:57]	INFO	NewFrame finish. Opcode=1|Length=20
+[2017-11-11 15:08:57]	INFO	[14] opcode=1
+[2017-11-11 15:08:57]	INFO	onMessage #14: {"cmd":"getHistory"}
+[2017-11-11 15:09:03]	INFO	NewFrame finish. Opcode=8|Length=2
+[2017-11-11 15:09:03]	INFO	[14] opcode=8
+[2017-11-11 15:09:03]	INFO	server close connection[14]. reason: client active close, code=1001, close_code = 1002
+[2017-11-11 15:09:03]	INFO	onOffline: 14
+[2017-11-11 15:09:03]	INFO	WebSocket connection #15 is connected
+[2017-11-11 15:09:03]	INFO	NewFrame finish. Opcode=1|Length=113
+[2017-11-11 15:09:03]	INFO	[15] opcode=1
+[2017-11-11 15:09:03]	INFO	onMessage #15: {"cmd":"login","name":"disen","avatar":"http://qzapp.qlogo.cn/qzapp/221403/00B00E102B5BDB994626DE606CB3FE15/100"}
+[2017-11-11 15:09:03]	INFO	NewFrame finish. Opcode=1|Length=19
+[2017-11-11 15:09:03]	INFO	[15] opcode=1
+[2017-11-11 15:09:03]	INFO	onMessage #15: {"cmd":"getOnline"}
+[2017-11-11 15:09:03]	INFO	NewFrame finish. Opcode=1|Length=20
+[2017-11-11 15:09:03]	INFO	[15] opcode=1
+[2017-11-11 15:09:03]	INFO	onMessage #15: {"cmd":"getHistory"}
+[2017-11-11 15:09:04]	INFO	NewFrame finish. Opcode=8|Length=2
+[2017-11-11 15:09:04]	INFO	[15] opcode=8
+[2017-11-11 15:09:04]	INFO	server close connection[15]. reason: client active close, code=1001, close_code = 1002
+[2017-11-11 15:09:04]	INFO	onOffline: 15
+[2017-11-11 15:09:04]	INFO	WebSocket connection #16 is connected
+[2017-11-11 15:09:04]	INFO	NewFrame finish. Opcode=1|Length=113
+[2017-11-11 15:09:04]	INFO	[16] opcode=1
+[2017-11-11 15:09:04]	INFO	onMessage #16: {"cmd":"login","name":"disen","avatar":"http://qzapp.qlogo.cn/qzapp/221403/00B00E102B5BDB994626DE606CB3FE15/100"}
+[2017-11-11 15:09:04]	INFO	NewFrame finish. Opcode=1|Length=19
+[2017-11-11 15:09:04]	INFO	[16] opcode=1
+[2017-11-11 15:09:04]	INFO	onMessage #16: {"cmd":"getOnline"}
+[2017-11-11 15:09:04]	INFO	NewFrame finish. Opcode=1|Length=20
+[2017-11-11 15:09:04]	INFO	[16] opcode=1
+[2017-11-11 15:09:04]	INFO	onMessage #16: {"cmd":"getHistory"}
+[2017-11-11 15:09:04]	INFO	NewFrame finish. Opcode=8|Length=2
+[2017-11-11 15:09:04]	INFO	[16] opcode=8
+[2017-11-11 15:09:04]	INFO	server close connection[16]. reason: client active close, code=1001, close_code = 1002
+[2017-11-11 15:09:04]	INFO	onOffline: 16
+[2017-11-11 15:09:04]	INFO	WebSocket connection #17 is connected
+[2017-11-11 15:09:05]	INFO	NewFrame finish. Opcode=1|Length=113
+[2017-11-11 15:09:05]	INFO	[17] opcode=1
+[2017-11-11 15:09:05]	INFO	onMessage #17: {"cmd":"login","name":"disen","avatar":"http://qzapp.qlogo.cn/qzapp/221403/00B00E102B5BDB994626DE606CB3FE15/100"}
+[2017-11-11 15:09:05]	INFO	NewFrame finish. Opcode=1|Length=19
+[2017-11-11 15:09:05]	INFO	[17] opcode=1
+[2017-11-11 15:09:05]	INFO	onMessage #17: {"cmd":"getOnline"}
+[2017-11-11 15:09:05]	INFO	NewFrame finish. Opcode=1|Length=20
+[2017-11-11 15:09:05]	INFO	[17] opcode=1
+[2017-11-11 15:09:05]	INFO	onMessage #17: {"cmd":"getHistory"}
+[2017-11-11 15:09:05]	INFO	NewFrame finish. Opcode=8|Length=2
+[2017-11-11 15:09:05]	INFO	[17] opcode=8
+[2017-11-11 15:09:05]	INFO	server close connection[17]. reason: client active close, code=1001, close_code = 1002
+[2017-11-11 15:09:05]	INFO	onOffline: 17
+[2017-11-11 15:09:05]	INFO	WebSocket connection #18 is connected
+[2017-11-11 15:09:05]	INFO	NewFrame finish. Opcode=1|Length=113
+[2017-11-11 15:09:05]	INFO	[18] opcode=1
+[2017-11-11 15:09:05]	INFO	onMessage #18: {"cmd":"login","name":"disen","avatar":"http://qzapp.qlogo.cn/qzapp/221403/00B00E102B5BDB994626DE606CB3FE15/100"}
+[2017-11-11 15:09:05]	INFO	NewFrame finish. Opcode=1|Length=19
+[2017-11-11 15:09:05]	INFO	[18] opcode=1
+[2017-11-11 15:09:05]	INFO	onMessage #18: {"cmd":"getOnline"}
+[2017-11-11 15:09:05]	INFO	NewFrame finish. Opcode=1|Length=20
+[2017-11-11 15:09:05]	INFO	[18] opcode=1
+[2017-11-11 15:09:05]	INFO	onMessage #18: {"cmd":"getHistory"}
+[2017-11-11 15:09:06]	INFO	NewFrame finish. Opcode=8|Length=2
+[2017-11-11 15:09:06]	INFO	[18] opcode=8
+[2017-11-11 15:09:06]	INFO	server close connection[18]. reason: client active close, code=1001, close_code = 1002
+[2017-11-11 15:09:06]	INFO	onOffline: 18
+[2017-11-11 15:09:06]	INFO	WebSocket connection #19 is connected
+[2017-11-11 15:09:06]	INFO	NewFrame finish. Opcode=1|Length=113
+[2017-11-11 15:09:06]	INFO	[19] opcode=1
+[2017-11-11 15:09:06]	INFO	onMessage #19: {"cmd":"login","name":"disen","avatar":"http://qzapp.qlogo.cn/qzapp/221403/00B00E102B5BDB994626DE606CB3FE15/100"}
+[2017-11-11 15:09:06]	INFO	NewFrame finish. Opcode=1|Length=19
+[2017-11-11 15:09:06]	INFO	[19] opcode=1
+[2017-11-11 15:09:06]	INFO	onMessage #19: {"cmd":"getOnline"}
+[2017-11-11 15:09:06]	INFO	NewFrame finish. Opcode=1|Length=20
+[2017-11-11 15:09:06]	INFO	[19] opcode=1
+[2017-11-11 15:09:06]	INFO	onMessage #19: {"cmd":"getHistory"}
+[2017-11-11 15:09:06]	INFO	NewFrame finish. Opcode=8|Length=2
+[2017-11-11 15:09:06]	INFO	[19] opcode=8
+[2017-11-11 15:09:06]	INFO	server close connection[19]. reason: client active close, code=1001, close_code = 1002
+[2017-11-11 15:09:06]	INFO	onOffline: 19
+[2017-11-11 15:09:06]	INFO	WebSocket connection #20 is connected
+[2017-11-11 15:09:06]	INFO	NewFrame finish. Opcode=1|Length=113
+[2017-11-11 15:09:06]	INFO	[20] opcode=1
+[2017-11-11 15:09:06]	INFO	onMessage #20: {"cmd":"login","name":"disen","avatar":"http://qzapp.qlogo.cn/qzapp/221403/00B00E102B5BDB994626DE606CB3FE15/100"}
+[2017-11-11 15:09:06]	INFO	NewFrame finish. Opcode=1|Length=19
+[2017-11-11 15:09:06]	INFO	[20] opcode=1
+[2017-11-11 15:09:06]	INFO	onMessage #20: {"cmd":"getOnline"}
+[2017-11-11 15:09:06]	INFO	NewFrame finish. Opcode=1|Length=20
+[2017-11-11 15:09:06]	INFO	[20] opcode=1
+[2017-11-11 15:09:06]	INFO	onMessage #20: {"cmd":"getHistory"}
+[2017-11-11 15:09:06]	INFO	NewFrame finish. Opcode=8|Length=2
+[2017-11-11 15:09:06]	INFO	[20] opcode=8
+[2017-11-11 15:09:06]	INFO	server close connection[20]. reason: client active close, code=1001, close_code = 1002
+[2017-11-11 15:09:06]	INFO	onOffline: 20
+[2017-11-11 15:09:07]	INFO	WebSocket connection #21 is connected
+[2017-11-11 15:09:07]	INFO	NewFrame finish. Opcode=1|Length=113
+[2017-11-11 15:09:07]	INFO	[21] opcode=1
+[2017-11-11 15:09:07]	INFO	onMessage #21: {"cmd":"login","name":"disen","avatar":"http://qzapp.qlogo.cn/qzapp/221403/00B00E102B5BDB994626DE606CB3FE15/100"}
+[2017-11-11 15:09:07]	INFO	NewFrame finish. Opcode=1|Length=19
+[2017-11-11 15:09:07]	INFO	[21] opcode=1
+[2017-11-11 15:09:07]	INFO	onMessage #21: {"cmd":"getOnline"}
+[2017-11-11 15:09:07]	INFO	NewFrame finish. Opcode=1|Length=20
+[2017-11-11 15:09:07]	INFO	[21] opcode=1
+[2017-11-11 15:09:07]	INFO	onMessage #21: {"cmd":"getHistory"}
+[2017-11-11 15:09:07]	INFO	NewFrame finish. Opcode=8|Length=2
+[2017-11-11 15:09:07]	INFO	[21] opcode=8
+[2017-11-11 15:09:07]	INFO	server close connection[21]. reason: client active close, code=1001, close_code = 1002
+[2017-11-11 15:09:07]	INFO	onOffline: 21
+[2017-11-11 15:09:07]	INFO	WebSocket connection #22 is connected
+[2017-11-11 15:09:07]	INFO	NewFrame finish. Opcode=1|Length=113
+[2017-11-11 15:09:07]	INFO	[22] opcode=1
+[2017-11-11 15:09:07]	INFO	onMessage #22: {"cmd":"login","name":"disen","avatar":"http://qzapp.qlogo.cn/qzapp/221403/00B00E102B5BDB994626DE606CB3FE15/100"}
+[2017-11-11 15:09:07]	INFO	NewFrame finish. Opcode=1|Length=19
+[2017-11-11 15:09:07]	INFO	[22] opcode=1
+[2017-11-11 15:09:07]	INFO	onMessage #22: {"cmd":"getOnline"}
+[2017-11-11 15:09:07]	INFO	NewFrame finish. Opcode=1|Length=20
+[2017-11-11 15:09:07]	INFO	[22] opcode=1
+[2017-11-11 15:09:07]	INFO	onMessage #22: {"cmd":"getHistory"}
+[2017-11-11 15:09:11]	INFO	NewFrame finish. Opcode=1|Length=76
+[2017-11-11 15:09:11]	INFO	[22] opcode=1
+[2017-11-11 15:09:11]	INFO	onMessage #22: {"cmd":"message","from":22,"channal":0,"data":"0000000000000","type":"text"}
+[2017-11-11 15:12:57]	INFO	NewFrame finish. Opcode=8|Length=2
+[2017-11-11 15:12:57]	INFO	[22] opcode=8
+[2017-11-11 15:12:57]	INFO	server close connection[22]. reason: client active close, code=1001, close_code = 1002
+[2017-11-11 15:12:57]	INFO	onOffline: 22
+[2017-11-11 15:12:57]	INFO	WebSocket connection #23 is connected
+[2017-11-11 15:12:57]	INFO	NewFrame finish. Opcode=1|Length=113
+[2017-11-11 15:12:57]	INFO	[23] opcode=1
+[2017-11-11 15:12:57]	INFO	onMessage #23: {"cmd":"login","name":"disen","avatar":"http://qzapp.qlogo.cn/qzapp/221403/00B00E102B5BDB994626DE606CB3FE15/100"}
+[2017-11-11 15:12:57]	INFO	NewFrame finish. Opcode=1|Length=19
+[2017-11-11 15:12:57]	INFO	[23] opcode=1
+[2017-11-11 15:12:57]	INFO	onMessage #23: {"cmd":"getOnline"}
+[2017-11-11 15:12:57]	INFO	NewFrame finish. Opcode=1|Length=20
+[2017-11-11 15:12:57]	INFO	[23] opcode=1
+[2017-11-11 15:12:57]	INFO	onMessage #23: {"cmd":"getHistory"}
+[2017-11-11 15:12:58]	INFO	NewFrame finish. Opcode=8|Length=2
+[2017-11-11 15:12:58]	INFO	[23] opcode=8
+[2017-11-11 15:12:58]	INFO	server close connection[23]. reason: client active close, code=1001, close_code = 1002
+[2017-11-11 15:12:58]	INFO	onOffline: 23
+[2017-11-11 15:12:58]	INFO	WebSocket connection #24 is connected
+[2017-11-11 15:12:58]	INFO	NewFrame finish. Opcode=1|Length=113
+[2017-11-11 15:12:58]	INFO	[24] opcode=1
+[2017-11-11 15:12:58]	INFO	onMessage #24: {"cmd":"login","name":"disen","avatar":"http://qzapp.qlogo.cn/qzapp/221403/00B00E102B5BDB994626DE606CB3FE15/100"}
+[2017-11-11 15:12:58]	INFO	NewFrame finish. Opcode=1|Length=19
+[2017-11-11 15:12:58]	INFO	[24] opcode=1
+[2017-11-11 15:12:58]	INFO	onMessage #24: {"cmd":"getOnline"}
+[2017-11-11 15:12:58]	INFO	NewFrame finish. Opcode=1|Length=20
+[2017-11-11 15:12:58]	INFO	[24] opcode=1
+[2017-11-11 15:12:58]	INFO	onMessage #24: {"cmd":"getHistory"}
+[2017-11-11 15:12:59]	INFO	NewFrame finish. Opcode=8|Length=2
+[2017-11-11 15:12:59]	INFO	[24] opcode=8
+[2017-11-11 15:12:59]	INFO	server close connection[24]. reason: client active close, code=1001, close_code = 1002
+[2017-11-11 15:12:59]	INFO	onOffline: 24
+[2017-11-11 15:12:59]	INFO	WebSocket connection #25 is connected
+[2017-11-11 15:12:59]	INFO	NewFrame finish. Opcode=1|Length=113
+[2017-11-11 15:12:59]	INFO	[25] opcode=1
+[2017-11-11 15:12:59]	INFO	onMessage #25: {"cmd":"login","name":"disen","avatar":"http://qzapp.qlogo.cn/qzapp/221403/00B00E102B5BDB994626DE606CB3FE15/100"}
+[2017-11-11 15:12:59]	INFO	NewFrame finish. Opcode=1|Length=19
+[2017-11-11 15:12:59]	INFO	[25] opcode=1
+[2017-11-11 15:12:59]	INFO	onMessage #25: {"cmd":"getOnline"}
+[2017-11-11 15:12:59]	INFO	NewFrame finish. Opcode=1|Length=20
+[2017-11-11 15:12:59]	INFO	[25] opcode=1
+[2017-11-11 15:12:59]	INFO	onMessage #25: {"cmd":"getHistory"}
+[2017-11-11 15:13:00]	INFO	NewFrame finish. Opcode=8|Length=2
+[2017-11-11 15:13:00]	INFO	[25] opcode=8
+[2017-11-11 15:13:00]	INFO	server close connection[25]. reason: client active close, code=1001, close_code = 1002
+[2017-11-11 15:13:00]	INFO	onOffline: 25
+[2017-11-11 15:13:00]	INFO	WebSocket connection #26 is connected
+[2017-11-11 15:13:00]	INFO	NewFrame finish. Opcode=1|Length=113
+[2017-11-11 15:13:00]	INFO	[26] opcode=1
+[2017-11-11 15:13:00]	INFO	onMessage #26: {"cmd":"login","name":"disen","avatar":"http://qzapp.qlogo.cn/qzapp/221403/00B00E102B5BDB994626DE606CB3FE15/100"}
+[2017-11-11 15:13:00]	INFO	NewFrame finish. Opcode=1|Length=19
+[2017-11-11 15:13:00]	INFO	[26] opcode=1
+[2017-11-11 15:13:00]	INFO	onMessage #26: {"cmd":"getOnline"}
+[2017-11-11 15:13:00]	INFO	NewFrame finish. Opcode=1|Length=20
+[2017-11-11 15:13:00]	INFO	[26] opcode=1
+[2017-11-11 15:13:00]	INFO	onMessage #26: {"cmd":"getHistory"}
+[2017-11-11 15:13:01]	INFO	NewFrame finish. Opcode=8|Length=2
+[2017-11-11 15:13:01]	INFO	[26] opcode=8
+[2017-11-11 15:13:01]	INFO	server close connection[26]. reason: client active close, code=1001, close_code = 1002
+[2017-11-11 15:13:01]	INFO	onOffline: 26
+[2017-11-11 15:13:01]	INFO	WebSocket connection #27 is connected
+[2017-11-11 15:13:01]	INFO	NewFrame finish. Opcode=1|Length=113
+[2017-11-11 15:13:01]	INFO	[27] opcode=1
+[2017-11-11 15:13:01]	INFO	onMessage #27: {"cmd":"login","name":"disen","avatar":"http://qzapp.qlogo.cn/qzapp/221403/00B00E102B5BDB994626DE606CB3FE15/100"}
+[2017-11-11 15:13:01]	INFO	NewFrame finish. Opcode=1|Length=19
+[2017-11-11 15:13:01]	INFO	[27] opcode=1
+[2017-11-11 15:13:01]	INFO	onMessage #27: {"cmd":"getOnline"}
+[2017-11-11 15:13:01]	INFO	NewFrame finish. Opcode=1|Length=20
+[2017-11-11 15:13:01]	INFO	[27] opcode=1
+[2017-11-11 15:13:01]	INFO	onMessage #27: {"cmd":"getHistory"}
+[2017-11-11 15:15:35]	INFO	NewFrame finish. Opcode=8|Length=2
+[2017-11-11 15:15:35]	INFO	[27] opcode=8
+[2017-11-11 15:15:35]	INFO	server close connection[27]. reason: client active close, code=1001, close_code = 1002
+[2017-11-11 15:15:35]	INFO	onOffline: 27
+[2017-11-11 15:15:35]	INFO	WebSocket connection #28 is connected
+[2017-11-11 15:15:35]	INFO	NewFrame finish. Opcode=1|Length=113
+[2017-11-11 15:15:35]	INFO	[28] opcode=1
+[2017-11-11 15:15:35]	INFO	onMessage #28: {"cmd":"login","name":"disen","avatar":"http://qzapp.qlogo.cn/qzapp/221403/00B00E102B5BDB994626DE606CB3FE15/100"}
+[2017-11-11 15:15:35]	INFO	NewFrame finish. Opcode=1|Length=19
+[2017-11-11 15:15:35]	INFO	[28] opcode=1
+[2017-11-11 15:15:35]	INFO	onMessage #28: {"cmd":"getOnline"}
+[2017-11-11 15:15:35]	INFO	NewFrame finish. Opcode=1|Length=20
+[2017-11-11 15:15:35]	INFO	[28] opcode=1
+[2017-11-11 15:15:35]	INFO	onMessage #28: {"cmd":"getHistory"}
+[2017-11-11 15:15:36]	INFO	NewFrame finish. Opcode=8|Length=2
+[2017-11-11 15:15:36]	INFO	[28] opcode=8
+[2017-11-11 15:15:36]	INFO	server close connection[28]. reason: client active close, code=1001, close_code = 1002
+[2017-11-11 15:15:36]	INFO	onOffline: 28
+[2017-11-11 15:15:36]	INFO	WebSocket connection #29 is connected
+[2017-11-11 15:15:36]	INFO	NewFrame finish. Opcode=1|Length=113
+[2017-11-11 15:15:36]	INFO	[29] opcode=1
+[2017-11-11 15:15:36]	INFO	onMessage #29: {"cmd":"login","name":"disen","avatar":"http://qzapp.qlogo.cn/qzapp/221403/00B00E102B5BDB994626DE606CB3FE15/100"}
+[2017-11-11 15:15:36]	INFO	NewFrame finish. Opcode=1|Length=19
+[2017-11-11 15:15:36]	INFO	[29] opcode=1
+[2017-11-11 15:15:36]	INFO	onMessage #29: {"cmd":"getOnline"}
+[2017-11-11 15:15:36]	INFO	NewFrame finish. Opcode=1|Length=20
+[2017-11-11 15:15:36]	INFO	[29] opcode=1
+[2017-11-11 15:15:36]	INFO	onMessage #29: {"cmd":"getHistory"}
+[2017-11-11 15:15:37]	INFO	NewFrame finish. Opcode=8|Length=2
+[2017-11-11 15:15:37]	INFO	[29] opcode=8
+[2017-11-11 15:15:37]	INFO	server close connection[29]. reason: client active close, code=1001, close_code = 1002
+[2017-11-11 15:15:37]	INFO	onOffline: 29
+[2017-11-11 15:15:37]	INFO	WebSocket connection #30 is connected
+[2017-11-11 15:15:37]	INFO	NewFrame finish. Opcode=1|Length=113
+[2017-11-11 15:15:37]	INFO	[30] opcode=1
+[2017-11-11 15:15:37]	INFO	onMessage #30: {"cmd":"login","name":"disen","avatar":"http://qzapp.qlogo.cn/qzapp/221403/00B00E102B5BDB994626DE606CB3FE15/100"}
+[2017-11-11 15:15:37]	INFO	NewFrame finish. Opcode=1|Length=19
+[2017-11-11 15:15:37]	INFO	[30] opcode=1
+[2017-11-11 15:15:37]	INFO	onMessage #30: {"cmd":"getOnline"}
+[2017-11-11 15:15:37]	INFO	NewFrame finish. Opcode=1|Length=20
+[2017-11-11 15:15:37]	INFO	[30] opcode=1
+[2017-11-11 15:15:37]	INFO	onMessage #30: {"cmd":"getHistory"}
+[2017-11-11 15:26:13]	INFO	WebSocket connection #31 is connected
+[2017-11-11 15:26:13]	INFO	NewFrame finish. Opcode=1|Length=90
+[2017-11-11 15:26:13]	INFO	[31] opcode=1
+[2017-11-11 15:26:13]	INFO	onMessage #31: {"cmd":"login","name":"哈哈","avatar":"http://www.swoole.com/static/images/default.png"}
+[2017-11-11 15:26:13]	INFO	NewFrame finish. Opcode=1|Length=19
+[2017-11-11 15:26:13]	INFO	[31] opcode=1
+[2017-11-11 15:26:13]	INFO	onMessage #31: {"cmd":"getOnline"}
+[2017-11-11 15:26:13]	INFO	NewFrame finish. Opcode=1|Length=20
+[2017-11-11 15:26:13]	INFO	[31] opcode=1
+[2017-11-11 15:26:13]	INFO	onMessage #31: {"cmd":"getHistory"}
+[2017-11-11 15:26:18]	INFO	NewFrame finish. Opcode=1|Length=66
+[2017-11-11 15:26:18]	INFO	[31] opcode=1
+[2017-11-11 15:26:18]	INFO	onMessage #31: {"cmd":"message","from":31,"channal":0,"data":"#4#","type":"text"}
+[2017-11-11 15:26:29]	INFO	NewFrame finish. Opcode=1|Length=76
+[2017-11-11 15:26:29]	INFO	[30] opcode=1
+[2017-11-11 15:26:29]	INFO	onMessage #30: {"cmd":"message","from":30,"channal":0,"data":"1111111111111","type":"text"}
+[2017-11-11 15:26:40]	INFO	NewFrame finish. Opcode=1|Length=68
+[2017-11-11 15:26:40]	INFO	[31] opcode=1
+[2017-11-11 15:26:40]	INFO	onMessage #31: {"cmd":"message","from":31,"channal":0,"data":"12313","type":"text"}
+[2017-11-11 15:32:05]	INFO	NewFrame finish. Opcode=8|Length=2
+[2017-11-11 15:32:05]	INFO	[30] opcode=8
+[2017-11-11 15:32:05]	INFO	server close connection[30]. reason: client active close, code=1001, close_code = 1002
+[2017-11-11 15:32:05]	INFO	onOffline: 30
+[2017-11-11 15:32:05]	INFO	WebSocket connection #32 is connected
+[2017-11-11 15:32:05]	INFO	NewFrame finish. Opcode=1|Length=113
+[2017-11-11 15:32:05]	INFO	[32] opcode=1
+[2017-11-11 15:32:05]	INFO	onMessage #32: {"cmd":"login","name":"disen","avatar":"http://qzapp.qlogo.cn/qzapp/221403/00B00E102B5BDB994626DE606CB3FE15/100"}
+[2017-11-11 15:32:05]	INFO	NewFrame finish. Opcode=1|Length=19
+[2017-11-11 15:32:05]	INFO	[32] opcode=1
+[2017-11-11 15:32:05]	INFO	onMessage #32: {"cmd":"getOnline"}
+[2017-11-11 15:32:05]	INFO	NewFrame finish. Opcode=1|Length=20
+[2017-11-11 15:32:05]	INFO	[32] opcode=1
+[2017-11-11 15:32:05]	INFO	onMessage #32: {"cmd":"getHistory"}
+[2017-11-11 15:32:07]	INFO	NewFrame finish. Opcode=8|Length=2
+[2017-11-11 15:32:07]	INFO	[32] opcode=8
+[2017-11-11 15:32:07]	INFO	server close connection[32]. reason: client active close, code=1001, close_code = 1002
+[2017-11-11 15:32:07]	INFO	onOffline: 32
+[2017-11-11 15:32:07]	INFO	WebSocket connection #33 is connected
+[2017-11-11 15:32:07]	INFO	NewFrame finish. Opcode=1|Length=113
+[2017-11-11 15:32:07]	INFO	[33] opcode=1
+[2017-11-11 15:32:07]	INFO	onMessage #33: {"cmd":"login","name":"disen","avatar":"http://qzapp.qlogo.cn/qzapp/221403/00B00E102B5BDB994626DE606CB3FE15/100"}
+[2017-11-11 15:32:07]	INFO	NewFrame finish. Opcode=1|Length=19
+[2017-11-11 15:32:07]	INFO	[33] opcode=1
+[2017-11-11 15:32:07]	INFO	onMessage #33: {"cmd":"getOnline"}
+[2017-11-11 15:32:07]	INFO	NewFrame finish. Opcode=1|Length=20
+[2017-11-11 15:32:07]	INFO	[33] opcode=1
+[2017-11-11 15:32:07]	INFO	onMessage #33: {"cmd":"getHistory"}
+[2017-11-13 09:04:20]	INFO	NewFrame finish. Opcode=8|Length=2
+[2017-11-13 09:04:20]	INFO	[33] opcode=8
+[2017-11-13 09:04:20]	INFO	server close connection[33]. reason: client active close, code=1001, close_code = 1002
+[2017-11-13 09:04:20]	INFO	onOffline: 33
+[2017-11-13 09:04:20]	INFO	WebSocket connection #34 is connected
+[2017-11-13 09:04:20]	INFO	NewFrame finish. Opcode=1|Length=113
+[2017-11-13 09:04:20]	INFO	[34] opcode=1
+[2017-11-13 09:04:20]	INFO	onMessage #34: {"cmd":"login","name":"disen","avatar":"http://qzapp.qlogo.cn/qzapp/221403/00B00E102B5BDB994626DE606CB3FE15/100"}
+[2017-11-11 14:45:57]	INFO	SwooleFramework[#1]. running. on 0.0.0.0:9503
+[2017-11-13 09:04:20]	INFO	NewFrame finish. Opcode=1|Length=19
+[2017-11-13 09:04:20]	INFO	[34] opcode=1
+[2017-11-13 09:04:20]	INFO	onMessage #34: {"cmd":"getOnline"}
+[2017-11-13 09:04:20]	INFO	NewFrame finish. Opcode=1|Length=20
+[2017-11-13 09:04:20]	INFO	[34] opcode=1
+[2017-11-13 09:04:20]	INFO	onMessage #34: {"cmd":"getHistory"}
+[2017-11-13 09:04:27]	INFO	NewFrame finish. Opcode=8|Length=2
+[2017-11-13 09:04:27]	INFO	[34] opcode=8
+[2017-11-13 09:04:27]	INFO	server close connection[34]. reason: client active close, code=1001, close_code = 1002
+[2017-11-13 09:04:27]	INFO	onOffline: 34
+[2017-11-13 09:04:27]	INFO	WebSocket connection #35 is connected
+[2017-11-13 09:04:27]	INFO	NewFrame finish. Opcode=1|Length=113
+[2017-11-13 09:04:27]	INFO	[35] opcode=1
+[2017-11-13 09:04:27]	INFO	onMessage #35: {"cmd":"login","name":"disen","avatar":"http://qzapp.qlogo.cn/qzapp/221403/00B00E102B5BDB994626DE606CB3FE15/100"}
+[2017-11-13 09:04:27]	INFO	NewFrame finish. Opcode=1|Length=19
+[2017-11-13 09:04:27]	INFO	[35] opcode=1
+[2017-11-13 09:04:27]	INFO	onMessage #35: {"cmd":"getOnline"}
+[2017-11-13 09:04:27]	INFO	NewFrame finish. Opcode=1|Length=20
+[2017-11-13 09:04:27]	INFO	[35] opcode=1
+[2017-11-13 09:04:27]	INFO	onMessage #35: {"cmd":"getHistory"}
+[2017-11-13 09:04:29]	INFO	NewFrame finish. Opcode=8|Length=2
+[2017-11-13 09:04:29]	INFO	[35] opcode=8
+[2017-11-13 09:04:29]	INFO	server close connection[35]. reason: client active close, code=1001, close_code = 1002
+[2017-11-13 09:04:29]	INFO	onOffline: 35
+[2017-11-13 09:04:29]	INFO	WebSocket connection #36 is connected
+[2017-11-13 09:04:29]	INFO	NewFrame finish. Opcode=1|Length=113
+[2017-11-13 09:04:29]	INFO	[36] opcode=1
+[2017-11-13 09:04:29]	INFO	onMessage #36: {"cmd":"login","name":"disen","avatar":"http://qzapp.qlogo.cn/qzapp/221403/00B00E102B5BDB994626DE606CB3FE15/100"}
+[2017-11-13 09:04:29]	INFO	NewFrame finish. Opcode=1|Length=19
+[2017-11-13 09:04:29]	INFO	[36] opcode=1
+[2017-11-13 09:04:29]	INFO	onMessage #36: {"cmd":"getOnline"}
+[2017-11-13 09:04:29]	INFO	NewFrame finish. Opcode=1|Length=20
+[2017-11-13 09:04:29]	INFO	[36] opcode=1
+[2017-11-13 09:04:29]	INFO	onMessage #36: {"cmd":"getHistory"}
+[2017-11-13 09:04:30]	INFO	NewFrame finish. Opcode=8|Length=2
+[2017-11-13 09:04:30]	INFO	[36] opcode=8
+[2017-11-13 09:04:30]	INFO	server close connection[36]. reason: client active close, code=1001, close_code = 1002
+[2017-11-13 09:04:30]	INFO	onOffline: 36
+[2017-11-13 09:04:30]	INFO	WebSocket connection #37 is connected
+[2017-11-13 09:04:30]	INFO	NewFrame finish. Opcode=1|Length=113
+[2017-11-13 09:04:30]	INFO	[37] opcode=1
+[2017-11-13 09:04:30]	INFO	onMessage #37: {"cmd":"login","name":"disen","avatar":"http://qzapp.qlogo.cn/qzapp/221403/00B00E102B5BDB994626DE606CB3FE15/100"}
+[2017-11-13 09:04:30]	INFO	NewFrame finish. Opcode=1|Length=19
+[2017-11-13 09:04:30]	INFO	[37] opcode=1
+[2017-11-13 09:04:30]	INFO	onMessage #37: {"cmd":"getOnline"}
+[2017-11-13 09:04:30]	INFO	NewFrame finish. Opcode=1|Length=20
+[2017-11-13 09:04:30]	INFO	[37] opcode=1
+[2017-11-13 09:04:30]	INFO	onMessage #37: {"cmd":"getHistory"}
+[2017-11-13 09:04:34]	INFO	NewFrame finish. Opcode=1|Length=72
+[2017-11-13 09:04:34]	INFO	[37] opcode=1
+[2017-11-13 09:04:34]	INFO	onMessage #37: {"cmd":"message","from":37,"channal":0,"data":"131313131","type":"text"}
+[2017-11-13 09:04:40]	INFO	NewFrame finish. Opcode=8|Length=2
+[2017-11-13 09:04:40]	INFO	[37] opcode=8
+[2017-11-13 09:04:40]	INFO	server close connection[37]. reason: client active close, code=1001, close_code = 1002
+[2017-11-13 09:04:40]	INFO	onOffline: 37
+[2017-11-13 09:04:41]	INFO	WebSocket connection #38 is connected
+[2017-11-13 09:04:41]	INFO	NewFrame finish. Opcode=1|Length=113
+[2017-11-13 09:04:41]	INFO	[38] opcode=1
+[2017-11-13 09:04:41]	INFO	onMessage #38: {"cmd":"login","name":"disen","avatar":"http://qzapp.qlogo.cn/qzapp/221403/00B00E102B5BDB994626DE606CB3FE15/100"}
+[2017-11-13 09:04:41]	INFO	NewFrame finish. Opcode=1|Length=19
+[2017-11-13 09:04:41]	INFO	[38] opcode=1
+[2017-11-13 09:04:41]	INFO	onMessage #38: {"cmd":"getOnline"}
+[2017-11-13 09:04:41]	INFO	NewFrame finish. Opcode=1|Length=20
+[2017-11-13 09:04:41]	INFO	[38] opcode=1
+[2017-11-13 09:04:41]	INFO	onMessage #38: {"cmd":"getHistory"}
+[2017-11-13 09:04:41]	INFO	NewFrame finish. Opcode=8|Length=2
+[2017-11-13 09:04:41]	INFO	[38] opcode=8
+[2017-11-13 09:04:41]	INFO	server close connection[38]. reason: client active close, code=1001, close_code = 1002
+[2017-11-13 09:04:41]	INFO	onOffline: 38
+[2017-11-13 09:04:41]	INFO	WebSocket connection #39 is connected
+[2017-11-13 09:04:41]	INFO	NewFrame finish. Opcode=1|Length=113
+[2017-11-13 09:04:41]	INFO	[39] opcode=1
+[2017-11-13 09:04:41]	INFO	onMessage #39: {"cmd":"login","name":"disen","avatar":"http://qzapp.qlogo.cn/qzapp/221403/00B00E102B5BDB994626DE606CB3FE15/100"}
+[2017-11-13 09:04:41]	INFO	NewFrame finish. Opcode=1|Length=19
+[2017-11-13 09:04:41]	INFO	[39] opcode=1
+[2017-11-13 09:04:41]	INFO	onMessage #39: {"cmd":"getOnline"}
+[2017-11-13 09:04:41]	INFO	NewFrame finish. Opcode=1|Length=20
+[2017-11-13 09:04:41]	INFO	[39] opcode=1
+[2017-11-13 09:04:41]	INFO	onMessage #39: {"cmd":"getHistory"}
+[2017-11-13 09:04:42]	INFO	NewFrame finish. Opcode=8|Length=2
+[2017-11-13 09:04:42]	INFO	[39] opcode=8
+[2017-11-13 09:04:42]	INFO	server close connection[39]. reason: client active close, code=1001, close_code = 1002
+[2017-11-13 09:04:42]	INFO	onOffline: 39
+[2017-11-13 09:04:42]	INFO	WebSocket connection #40 is connected
+[2017-11-13 09:04:42]	INFO	NewFrame finish. Opcode=1|Length=113
+[2017-11-13 09:04:42]	INFO	[40] opcode=1
+[2017-11-13 09:04:42]	INFO	onMessage #40: {"cmd":"login","name":"disen","avatar":"http://qzapp.qlogo.cn/qzapp/221403/00B00E102B5BDB994626DE606CB3FE15/100"}
+[2017-11-13 09:04:42]	INFO	NewFrame finish. Opcode=1|Length=19
+[2017-11-13 09:04:42]	INFO	[40] opcode=1
+[2017-11-13 09:04:42]	INFO	onMessage #40: {"cmd":"getOnline"}
+[2017-11-13 09:04:42]	INFO	NewFrame finish. Opcode=1|Length=20
+[2017-11-13 09:04:42]	INFO	[40] opcode=1
+[2017-11-13 09:04:42]	INFO	onMessage #40: {"cmd":"getHistory"}
+[2017-11-13 09:04:43]	INFO	NewFrame finish. Opcode=8|Length=2
+[2017-11-13 09:04:43]	INFO	[40] opcode=8
+[2017-11-13 09:04:43]	INFO	server close connection[40]. reason: client active close, code=1001, close_code = 1002
+[2017-11-13 09:04:43]	INFO	onOffline: 40
+[2017-11-13 09:04:43]	INFO	WebSocket connection #41 is connected
+[2017-11-13 09:04:43]	INFO	NewFrame finish. Opcode=1|Length=113
+[2017-11-13 09:04:43]	INFO	[41] opcode=1
+[2017-11-13 09:04:43]	INFO	onMessage #41: {"cmd":"login","name":"disen","avatar":"http://qzapp.qlogo.cn/qzapp/221403/00B00E102B5BDB994626DE606CB3FE15/100"}
+[2017-11-13 09:04:43]	INFO	NewFrame finish. Opcode=1|Length=19
+[2017-11-13 09:04:43]	INFO	[41] opcode=1
+[2017-11-13 09:04:43]	INFO	onMessage #41: {"cmd":"getOnline"}
+[2017-11-13 09:04:43]	INFO	NewFrame finish. Opcode=1|Length=20
+[2017-11-13 09:04:43]	INFO	[41] opcode=1
+[2017-11-13 09:04:43]	INFO	onMessage #41: {"cmd":"getHistory"}
+[2017-11-13 09:04:44]	INFO	NewFrame finish. Opcode=8|Length=2
+[2017-11-13 09:04:44]	INFO	[41] opcode=8
+[2017-11-13 09:04:44]	INFO	server close connection[41]. reason: client active close, code=1001, close_code = 1002
+[2017-11-13 09:04:44]	INFO	onOffline: 41
+[2017-11-13 09:04:44]	INFO	WebSocket connection #42 is connected
+[2017-11-13 09:04:44]	INFO	NewFrame finish. Opcode=1|Length=113
+[2017-11-13 09:04:44]	INFO	[42] opcode=1
+[2017-11-13 09:04:44]	INFO	onMessage #42: {"cmd":"login","name":"disen","avatar":"http://qzapp.qlogo.cn/qzapp/221403/00B00E102B5BDB994626DE606CB3FE15/100"}
+[2017-11-13 09:04:44]	INFO	NewFrame finish. Opcode=1|Length=19
+[2017-11-13 09:04:44]	INFO	[42] opcode=1
+[2017-11-13 09:04:44]	INFO	onMessage #42: {"cmd":"getOnline"}
+[2017-11-13 09:04:44]	INFO	NewFrame finish. Opcode=1|Length=20
+[2017-11-13 09:04:44]	INFO	[42] opcode=1
+[2017-11-13 09:04:44]	INFO	onMessage #42: {"cmd":"getHistory"}
+[2017-11-13 09:04:51]	INFO	NewFrame finish. Opcode=1|Length=79
+[2017-11-13 09:04:51]	INFO	[42] opcode=1
+[2017-11-13 09:04:51]	INFO	onMessage #42: {"cmd":"message","from":42,"to":"31","channal":1,"data":"132113","type":"text"}
+[2017-11-13 09:04:57]	INFO	NewFrame finish. Opcode=1|Length=105
+[2017-11-13 09:04:57]	INFO	[42] opcode=1
+[2017-11-13 09:04:57]	INFO	onMessage #42: {"cmd":"message","from":42,"to":"31","channal":1,"data":"11111111111111111111111111111111","type":"text"}
+[2017-11-13 09:05:02]	INFO	NewFrame finish. Opcode=8|Length=2
+[2017-11-13 09:05:02]	INFO	[31] opcode=8
+[2017-11-13 09:05:02]	INFO	server close connection[31]. reason: client active close, code=1001, close_code = 1002
+[2017-11-13 09:05:02]	INFO	onOffline: 31
+[2017-11-13 09:05:02]	INFO	WebSocket connection #43 is connected
+[2017-11-13 09:05:02]	INFO	NewFrame finish. Opcode=1|Length=90
+[2017-11-13 09:05:02]	INFO	[43] opcode=1
+[2017-11-13 09:05:02]	INFO	onMessage #43: {"cmd":"login","name":"哈哈","avatar":"http://www.swoole.com/static/images/default.png"}
+[2017-11-13 09:05:02]	INFO	NewFrame finish. Opcode=1|Length=19
+[2017-11-13 09:05:02]	INFO	[43] opcode=1
+[2017-11-13 09:05:02]	INFO	onMessage #43: {"cmd":"getOnline"}
+[2017-11-13 09:05:02]	INFO	NewFrame finish. Opcode=1|Length=20
+[2017-11-13 09:05:02]	INFO	[43] opcode=1
+[2017-11-13 09:05:02]	INFO	onMessage #43: {"cmd":"getHistory"}
+[2017-11-13 09:05:05]	INFO	NewFrame finish. Opcode=8|Length=2
+[2017-11-13 09:05:05]	INFO	[43] opcode=8
+[2017-11-13 09:05:05]	INFO	server close connection[43]. reason: client active close, code=1001, close_code = 1002
+[2017-11-13 09:05:05]	INFO	onOffline: 43
+[2017-11-13 09:05:06]	INFO	WebSocket connection #44 is connected
+[2017-11-13 09:05:06]	INFO	NewFrame finish. Opcode=1|Length=90
+[2017-11-13 09:05:06]	INFO	[44] opcode=1
+[2017-11-13 09:05:06]	INFO	onMessage #44: {"cmd":"login","name":"哈哈","avatar":"http://www.swoole.com/static/images/default.png"}
+[2017-11-13 09:05:06]	INFO	NewFrame finish. Opcode=1|Length=19
+[2017-11-13 09:05:06]	INFO	[44] opcode=1
+[2017-11-13 09:05:06]	INFO	onMessage #44: {"cmd":"getOnline"}
+[2017-11-13 09:05:06]	INFO	NewFrame finish. Opcode=1|Length=20
+[2017-11-13 09:05:06]	INFO	[44] opcode=1
+[2017-11-13 09:05:06]	INFO	onMessage #44: {"cmd":"getHistory"}
+[2017-11-13 09:05:11]	INFO	NewFrame finish. Opcode=1|Length=94
+[2017-11-13 09:05:11]	INFO	[44] opcode=1
+[2017-11-13 09:05:11]	INFO	onMessage #44: {"cmd":"message","from":44,"channal":0,"data":"1111111111111111111111111111#5#","type":"text"}
+[2017-11-13 11:30:05]	INFO	NewFrame finish. Opcode=8|Length=2
+[2017-11-13 11:30:05]	INFO	[42] opcode=8
+[2017-11-13 11:30:05]	INFO	server close connection[42]. reason: client active close, code=1001, close_code = 1002
+[2017-11-13 11:30:05]	INFO	onOffline: 42
+[2017-11-13 11:30:05]	INFO	WebSocket connection #45 is connected
+[2017-11-13 11:30:05]	INFO	NewFrame finish. Opcode=1|Length=113
+[2017-11-13 11:30:05]	INFO	[45] opcode=1
+[2017-11-13 11:30:05]	INFO	onMessage #45: {"cmd":"login","name":"disen","avatar":"http://qzapp.qlogo.cn/qzapp/221403/00B00E102B5BDB994626DE606CB3FE15/100"}
+[2017-11-13 11:30:05]	INFO	NewFrame finish. Opcode=1|Length=19
+[2017-11-13 11:30:05]	INFO	[45] opcode=1
+[2017-11-13 11:30:05]	INFO	onMessage #45: {"cmd":"getOnline"}
+[2017-11-13 11:30:05]	INFO	NewFrame finish. Opcode=1|Length=20
+[2017-11-13 11:30:05]	INFO	[45] opcode=1
+[2017-11-13 11:30:05]	INFO	onMessage #45: {"cmd":"getHistory"}
+[2017-11-13 11:30:07]	INFO	NewFrame finish. Opcode=8|Length=2
+[2017-11-13 11:30:07]	INFO	[45] opcode=8
+[2017-11-13 11:30:07]	INFO	server close connection[45]. reason: client active close, code=1001, close_code = 1002
+[2017-11-13 11:30:07]	INFO	onOffline: 45
+[2017-11-13 11:30:08]	INFO	WebSocket connection #46 is connected
+[2017-11-13 11:30:08]	INFO	NewFrame finish. Opcode=1|Length=113
+[2017-11-13 11:30:08]	INFO	[46] opcode=1
+[2017-11-13 11:30:08]	INFO	onMessage #46: {"cmd":"login","name":"disen","avatar":"http://qzapp.qlogo.cn/qzapp/221403/00B00E102B5BDB994626DE606CB3FE15/100"}
+[2017-11-13 11:30:08]	INFO	NewFrame finish. Opcode=1|Length=19
+[2017-11-13 11:30:08]	INFO	[46] opcode=1
+[2017-11-13 11:30:08]	INFO	onMessage #46: {"cmd":"getOnline"}
+[2017-11-13 11:30:08]	INFO	NewFrame finish. Opcode=1|Length=20
+[2017-11-13 11:30:08]	INFO	[46] opcode=1
+[2017-11-13 11:30:08]	INFO	onMessage #46: {"cmd":"getHistory"}
+[2017-11-13 11:30:10]	INFO	NewFrame finish. Opcode=8|Length=2
+[2017-11-13 11:30:10]	INFO	[46] opcode=8
+[2017-11-13 11:30:10]	INFO	server close connection[46]. reason: client active close, code=1001, close_code = 1002
+[2017-11-13 11:30:10]	INFO	onOffline: 46
+[2017-11-13 11:30:10]	INFO	WebSocket connection #47 is connected
+[2017-11-13 11:30:10]	INFO	NewFrame finish. Opcode=1|Length=113
+[2017-11-13 11:30:10]	INFO	[47] opcode=1
+[2017-11-13 11:30:10]	INFO	onMessage #47: {"cmd":"login","name":"disen","avatar":"http://qzapp.qlogo.cn/qzapp/221403/00B00E102B5BDB994626DE606CB3FE15/100"}
+[2017-11-13 11:30:10]	INFO	NewFrame finish. Opcode=1|Length=19
+[2017-11-13 11:30:10]	INFO	[47] opcode=1
+[2017-11-13 11:30:10]	INFO	onMessage #47: {"cmd":"getOnline"}
+[2017-11-13 11:30:10]	INFO	NewFrame finish. Opcode=1|Length=20
+[2017-11-13 11:30:10]	INFO	[47] opcode=1
+[2017-11-13 11:30:10]	INFO	onMessage #47: {"cmd":"getHistory"}
+[2017-11-13 11:30:12]	INFO	NewFrame finish. Opcode=8|Length=2
+[2017-11-13 11:30:12]	INFO	[47] opcode=8
+[2017-11-13 11:30:12]	INFO	server close connection[47]. reason: client active close, code=1001, close_code = 1002
+[2017-11-13 11:30:12]	INFO	onOffline: 47
+[2017-11-13 11:30:12]	INFO	WebSocket connection #48 is connected
+[2017-11-13 11:30:12]	INFO	NewFrame finish. Opcode=1|Length=113
+[2017-11-13 11:30:12]	INFO	[48] opcode=1
+[2017-11-13 11:30:12]	INFO	onMessage #48: {"cmd":"login","name":"disen","avatar":"http://qzapp.qlogo.cn/qzapp/221403/00B00E102B5BDB994626DE606CB3FE15/100"}
+[2017-11-13 11:30:12]	INFO	NewFrame finish. Opcode=1|Length=19
+[2017-11-13 11:30:12]	INFO	[48] opcode=1
+[2017-11-13 11:30:12]	INFO	onMessage #48: {"cmd":"getOnline"}
+[2017-11-13 11:30:12]	INFO	NewFrame finish. Opcode=1|Length=20
+[2017-11-13 11:30:12]	INFO	[48] opcode=1
+[2017-11-13 11:30:12]	INFO	onMessage #48: {"cmd":"getHistory"}
+[2017-11-13 11:30:17]	INFO	NewFrame finish. Opcode=1|Length=68
+[2017-11-13 11:30:17]	INFO	[48] opcode=1
+[2017-11-13 11:30:17]	INFO	onMessage #48: {"cmd":"message","from":48,"channal":0,"data":"12313","type":"text"}
+[2017-11-13 11:31:43]	INFO	NewFrame finish. Opcode=8|Length=2
+[2017-11-13 11:31:43]	INFO	[48] opcode=8
+[2017-11-13 11:31:43]	INFO	server close connection[48]. reason: client active close, code=1001, close_code = 1002
+[2017-11-13 11:31:43]	INFO	onOffline: 48
+[2017-11-13 11:31:56]	INFO	NewFrame finish. Opcode=8|Length=2
+[2017-11-13 11:31:56]	INFO	[44] opcode=8
+[2017-11-13 11:31:56]	INFO	server close connection[44]. reason: client active close, code=1001, close_code = 1002
+[2017-11-13 11:31:56]	INFO	onOffline: 44
+[2017-11-13 16:59:57]	INFO	WebSocket connection #49 is connected
+[2017-11-13 16:59:57]	INFO	NewFrame finish. Opcode=1|Length=113
+[2017-11-13 16:59:57]	INFO	[49] opcode=1
+[2017-11-13 16:59:57]	INFO	onMessage #49: {"cmd":"login","name":"disen","avatar":"http://qzapp.qlogo.cn/qzapp/221403/00B00E102B5BDB994626DE606CB3FE15/100"}
+[2017-11-13 16:59:57]	INFO	NewFrame finish. Opcode=1|Length=19
+[2017-11-13 16:59:57]	INFO	[49] opcode=1
+[2017-11-13 16:59:57]	INFO	onMessage #49: {"cmd":"getOnline"}
+[2017-11-13 16:59:57]	INFO	NewFrame finish. Opcode=1|Length=20
+[2017-11-13 16:59:57]	INFO	[49] opcode=1
+[2017-11-13 16:59:57]	INFO	onMessage #49: {"cmd":"getHistory"}
+[2017-11-13 17:00:08]	INFO	NewFrame finish. Opcode=1|Length=73
+[2017-11-13 17:00:08]	INFO	[49] opcode=1
+[2017-11-13 17:00:08]	INFO	onMessage #49: {"cmd":"message","from":49,"channal":0,"data":"1231311231","type":"text"}
+[2017-11-13 17:00:14]	INFO	NewFrame finish. Opcode=1|Length=68
+[2017-11-13 17:00:14]	INFO	[49] opcode=1
+[2017-11-13 17:00:14]	INFO	onMessage #49: {"cmd":"message","from":49,"channal":0,"data":"12313","type":"text"}
+[2017-11-13 17:03:24]	INFO	NewFrame finish. Opcode=1|Length=66
+[2017-11-13 17:03:24]	INFO	[49] opcode=1
+[2017-11-13 17:03:24]	INFO	onMessage #49: {"cmd":"message","from":49,"channal":0,"data":"#4#","type":"text"}
+[2017-11-14 09:16:00]	INFO	NewFrame finish. Opcode=8|Length=2
+[2017-11-14 09:16:00]	INFO	[49] opcode=8
+[2017-11-14 09:16:00]	INFO	server close connection[49]. reason: client active close, code=1001, close_code = 1002
+[2017-11-14 09:16:00]	INFO	onOffline: 49
+[2017-11-14 10:44:49]	INFO	WebSocket connection #50 is connected
+[2017-11-13 09:04:20]	INFO	SwooleFramework[#1]. running. on 0.0.0.0:9503
+[2017-11-14 10:44:49]	INFO	NewFrame finish. Opcode=1|Length=113
+[2017-11-14 10:44:49]	INFO	[50] opcode=1
+[2017-11-14 10:44:49]	INFO	onMessage #50: {"cmd":"login","name":"disen","avatar":"http://qzapp.qlogo.cn/qzapp/221403/00B00E102B5BDB994626DE606CB3FE15/100"}
+[2017-11-14 10:44:49]	INFO	NewFrame finish. Opcode=1|Length=19
+[2017-11-14 10:44:49]	INFO	[50] opcode=1
+[2017-11-14 10:44:49]	INFO	onMessage #50: {"cmd":"getOnline"}
+[2017-11-14 10:44:49]	INFO	NewFrame finish. Opcode=1|Length=20
+[2017-11-14 10:44:49]	INFO	[50] opcode=1
+[2017-11-14 10:44:49]	INFO	onMessage #50: {"cmd":"getHistory"}
+[2017-11-14 10:44:54]	INFO	NewFrame finish. Opcode=1|Length=66
+[2018-02-06 14:02:32]	INFO	SwooleFramework[#0]. running. on 0.0.0.0:9503
+[2018-02-06 14:04:19]	INFO	WebSocket connection #1 is connected
+[2018-02-06 14:04:19]	INFO	NewFrame finish. Opcode=1|Length=15
+[2018-02-06 14:04:19]	INFO	[1] opcode=1
+[2018-02-06 14:04:19]	INFO	onMessage #1: {"cmd":"login"}
+[2018-02-06 14:04:19]	INFO	NewFrame finish. Opcode=1|Length=19
+[2018-02-06 14:04:19]	INFO	[1] opcode=1
+[2018-02-06 14:04:19]	INFO	onMessage #1: {"cmd":"getOnline"}
+[2018-02-06 14:04:19]	INFO	NewFrame finish. Opcode=1|Length=20
+[2018-02-06 14:04:19]	INFO	[1] opcode=1
+[2018-02-06 14:04:19]	INFO	onMessage #1: {"cmd":"getHistory"}
+[2018-02-06 14:04:23]	INFO	NewFrame finish. Opcode=8|Length=2
+[2018-02-06 14:04:23]	INFO	[1] opcode=8
+[2018-02-06 14:04:23]	INFO	server close connection[1]. reason: client active close, code=1001, close_code = 1002
+[2018-02-06 14:04:23]	INFO	onOffline: 1
+[2018-02-06 14:04:23]	INFO	WebSocket connection #2 is connected
+[2018-02-06 14:04:23]	INFO	NewFrame finish. Opcode=1|Length=15
+[2018-02-06 14:04:23]	INFO	[2] opcode=1
+[2018-02-06 14:04:23]	INFO	onMessage #2: {"cmd":"login"}
+[2018-02-06 14:04:23]	INFO	NewFrame finish. Opcode=1|Length=19
+[2018-02-06 14:04:23]	INFO	[2] opcode=1
+[2018-02-06 14:04:23]	INFO	onMessage #2: {"cmd":"getOnline"}
+[2018-02-06 14:04:23]	INFO	NewFrame finish. Opcode=1|Length=20
+[2018-02-06 14:04:23]	INFO	[2] opcode=1
+[2018-02-06 14:04:23]	INFO	onMessage #2: {"cmd":"getHistory"}
+[2018-02-06 14:04:24]	INFO	NewFrame finish. Opcode=8|Length=2
+[2018-02-06 14:04:24]	INFO	[2] opcode=8
+[2018-02-06 14:04:24]	INFO	server close connection[2]. reason: client active close, code=1001, close_code = 1002
+[2018-02-06 14:04:24]	INFO	onOffline: 2
+[2018-02-06 14:04:24]	INFO	WebSocket connection #3 is connected
+[2018-02-06 14:59:59]	INFO	SwooleFramework[#0]. running. on 0.0.0.0:9503
+[2018-02-06 15:00:05]	INFO	WebSocket connection #1 is connected
+[2018-02-06 15:00:05]	INFO	NewFrame finish. Opcode=1|Length=15
+[2018-02-06 15:00:05]	INFO	[1] opcode=1
+[2018-02-06 15:00:05]	INFO	onMessage #1: {"cmd":"login"}
+[2018-02-06 15:00:05]	INFO	NewFrame finish. Opcode=1|Length=19
+[2018-02-06 15:00:05]	INFO	[1] opcode=1
+[2018-02-06 15:00:05]	INFO	onMessage #1: {"cmd":"getOnline"}
+[2018-02-06 15:00:05]	INFO	NewFrame finish. Opcode=1|Length=20
+[2018-02-06 15:00:05]	INFO	[1] opcode=1
+[2018-02-06 15:00:05]	INFO	onMessage #1: {"cmd":"getHistory"}
+[2018-02-06 15:00:05]	INFO	NewFrame finish. Opcode=8|Length=2
+[2018-02-06 15:00:05]	INFO	[1] opcode=8
+[2018-02-06 15:00:05]	INFO	server close connection[1]. reason: client active close, code=1001, close_code = 1002
+[2018-02-06 15:00:05]	INFO	onOffline: 1
+[2018-02-06 15:00:06]	INFO	WebSocket connection #2 is connected
+[2018-02-06 15:00:06]	INFO	NewFrame finish. Opcode=1|Length=15
+[2018-02-06 15:00:06]	INFO	[2] opcode=1
+[2018-02-06 15:00:06]	INFO	onMessage #2: {"cmd":"login"}
+[2018-02-06 15:00:06]	INFO	NewFrame finish. Opcode=1|Length=19
+[2018-02-06 15:00:06]	INFO	[2] opcode=1
+[2018-02-06 15:00:06]	INFO	onMessage #2: {"cmd":"getOnline"}
+[2018-02-06 15:00:06]	INFO	NewFrame finish. Opcode=1|Length=20
+[2018-02-06 15:00:06]	INFO	[2] opcode=1
+[2018-02-06 15:00:06]	INFO	onMessage #2: {"cmd":"getHistory"}
+[2018-02-06 15:00:06]	INFO	NewFrame finish. Opcode=8|Length=2
+[2018-02-06 15:00:06]	INFO	[2] opcode=8
+[2018-02-06 15:00:06]	INFO	server close connection[2]. reason: client active close, code=1001, close_code = 1002
+[2018-02-06 15:00:06]	INFO	onOffline: 2
+[2018-02-06 15:00:06]	INFO	WebSocket connection #3 is connected
+[2018-02-06 15:00:06]	INFO	NewFrame finish. Opcode=1|Length=15
+[2018-02-06 15:00:06]	INFO	[3] opcode=1
+[2018-02-06 15:00:06]	INFO	onMessage #3: {"cmd":"login"}
+[2018-02-06 15:00:06]	INFO	NewFrame finish. Opcode=1|Length=19
+[2018-02-06 15:00:06]	INFO	[3] opcode=1
+[2018-02-06 15:00:06]	INFO	onMessage #3: {"cmd":"getOnline"}
+[2018-02-06 15:00:06]	INFO	NewFrame finish. Opcode=1|Length=20
+[2018-02-06 15:00:06]	INFO	[3] opcode=1
+[2018-02-06 15:00:06]	INFO	onMessage #3: {"cmd":"getHistory"}
+[2018-02-06 15:00:06]	INFO	NewFrame finish. Opcode=8|Length=2
+[2018-02-06 15:00:06]	INFO	[3] opcode=8
+[2018-02-06 15:00:06]	INFO	server close connection[3]. reason: client active close, code=1001, close_code = 1002
+[2018-02-06 15:00:06]	INFO	onOffline: 3
+[2018-02-06 15:00:06]	INFO	WebSocket connection #4 is connected
+[2018-02-06 15:00:06]	INFO	NewFrame finish. Opcode=1|Length=15
+[2018-02-06 15:00:06]	INFO	[4] opcode=1
+[2018-02-06 15:00:06]	INFO	onMessage #4: {"cmd":"login"}
+[2018-02-06 15:00:06]	INFO	NewFrame finish. Opcode=1|Length=19
+[2018-02-06 15:00:06]	INFO	[4] opcode=1
+[2018-02-06 15:00:06]	INFO	onMessage #4: {"cmd":"getOnline"}
+[2018-02-06 15:06:10]	INFO	SwooleFramework[#0]. running. on 0.0.0.0:9503
+[2018-02-06 15:10:55]	INFO	WebSocket connection #1 is connected
+[2018-02-06 15:10:55]	INFO	NewFrame finish. Opcode=1|Length=15
+[2018-02-06 15:10:55]	INFO	[1] opcode=1
+[2018-02-06 15:10:55]	INFO	onMessage #1: {"cmd":"login"}
+[2018-02-06 15:10:55]	INFO	NewFrame finish. Opcode=1|Length=19
+[2018-02-06 15:10:55]	INFO	[1] opcode=1
+[2018-02-06 15:10:55]	INFO	onMessage #1: {"cmd":"getOnline"}
+[2018-02-06 15:10:55]	INFO	NewFrame finish. Opcode=1|Length=20
+[2018-02-06 15:10:55]	INFO	[1] opcode=1
+[2018-02-06 15:10:55]	INFO	onMessage #1: {"cmd":"getHistory"}
+[2018-02-06 15:11:12]	INFO	NewFrame finish. Opcode=8|Length=2
+[2018-02-06 15:11:12]	INFO	[1] opcode=8
+[2018-02-06 15:11:12]	INFO	server close connection[1]. reason: client active close, code=1001, close_code = 1002
+[2018-02-06 15:11:12]	INFO	onOffline: 1
+[2018-02-06 15:11:12]	INFO	WebSocket connection #2 is connected
+[2018-02-06 15:11:12]	INFO	NewFrame finish. Opcode=1|Length=15
+[2018-02-06 15:11:12]	INFO	[2] opcode=1
+[2018-02-06 15:11:12]	INFO	onMessage #2: {"cmd":"login"}
+[2018-02-06 15:11:12]	INFO	NewFrame finish. Opcode=1|Length=19
