@@ -116,9 +116,9 @@ function selectUser(userid) {
  * @param dataObj
  */
 function showOnlineList(dataObj) {
+    console.log(dataObj);
     var li = '';
     var option = "<option value='0' id='user_all' >所有人</option>";
-
     for (var i = 0; i < dataObj.list.length; i++) {
         li = li + "<li id='inroom_" + dataObj.list[i].fd + "'>" +
         "<a href=\"javascript:selectUser('"

@@ -20,7 +20,19 @@ class Page extends \Swoole\Controller
             $curl = new CURL();
             //$user = $curl->get($this->config['login']['get_user_info'] . '?token=' . urlencode($_GET['token']));
             $tokenUrl = $this->config['login']['get_user_info'] . '?token=' . urlencode($_GET['token']);
-            $user = file_get_contents($tokenUrl);
+            //$user = file_get_contents($tokenUrl);
+            $nickname = uniqid();
+            $username = md5($nickname);
+            $user = '{
+	"username": "'.$username.'",
+	"nickname": "'.$nickname.'",
+	"avatar": "http://qzapp.qlogo.cn/qzapp/221403/00B00E102B5BDB994626DE606CB3FE15/100",
+	"birth_year": "1989",
+	"province": "江西",
+	"city": "南昌",
+	"sex": 1,
+	"id": 4513
+}';
             if (empty($user))
             {
                 login:
