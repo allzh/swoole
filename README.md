@@ -1,5 +1,5 @@
 
-swoole研究 基于韩顺平swoole webim项目研究
+swoole研究 基于韩天峰swoole webim项目研究
 
 WebIM
 ========
@@ -128,6 +128,11 @@ __5. 启动WebSocket服务器__
 php webim/webim_server.php
 ```
 
+tips：后台守护进程
+
+```shell
+nohup php webim_server.php start > /tmp/log.txt &
+```
 IE浏览器不支持WebSocket，需要使用FlashWebSocket模拟，请修改flash_policy.php中对应的端口，然后启动flash_policy.php。
 ```shell
 php webim/flash_policy.php

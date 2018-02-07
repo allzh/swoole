@@ -858,3 +858,92 @@
 [2018-02-06 15:11:12]	INFO	[2] opcode=1
 [2018-02-06 15:11:12]	INFO	onMessage #2: {"cmd":"login"}
 [2018-02-06 15:11:12]	INFO	NewFrame finish. Opcode=1|Length=19
+[2018-02-06 15:30:02]	INFO	SwooleFramework[#0]. running. on 0.0.0.0:9503
+[2018-02-06 15:30:52]	INFO	WebSocket connection #1 is connected
+[2018-02-06 15:30:52]	INFO	NewFrame finish. Opcode=1|Length=15
+[2018-02-06 15:30:52]	INFO	[1] opcode=1
+[2018-02-06 15:30:52]	INFO	onMessage #1: {"cmd":"login"}
+[2018-02-06 15:30:53]	INFO	NewFrame finish. Opcode=1|Length=19
+[2018-02-06 15:30:53]	INFO	[1] opcode=1
+[2018-02-06 15:30:53]	INFO	onMessage #1: {"cmd":"getOnline"}
+[2018-02-06 15:30:53]	INFO	NewFrame finish. Opcode=1|Length=20
+[2018-02-06 15:30:53]	INFO	[1] opcode=1
+[2018-02-06 15:30:53]	INFO	onMessage #1: {"cmd":"getHistory"}
+[2018-02-07 09:31:53]	INFO	NewFrame finish. Opcode=8|Length=2
+[2018-02-07 09:31:53]	INFO	[1] opcode=8
+[2018-02-07 09:31:53]	INFO	server close connection[1]. reason: client active close, code=1001, close_code = 1002
+[2018-02-07 09:31:53]	INFO	onOffline: 1
+[2018-02-07 09:31:53]	INFO	WebSocket connection #2 is connected
+[2018-02-07 09:31:54]	INFO	NewFrame finish. Opcode=1|Length=15
+[2018-02-07 09:31:54]	INFO	[2] opcode=1
+[2018-02-07 09:31:54]	INFO	onMessage #2: {"cmd":"login"}
+[2018-02-07 09:32:57]	INFO	SwooleFramework[#0]. running. on 0.0.0.0:9503
+[2018-02-07 09:33:01]	INFO	WebSocket connection #1 is connected
+[2018-02-07 09:33:01]	INFO	NewFrame finish. Opcode=1|Length=15
+[2018-02-07 09:33:01]	INFO	[1] opcode=1
+[2018-02-07 09:33:01]	INFO	onMessage #1: {"cmd":"login"}
+[2018-02-07 09:33:01]	INFO	NewFrame finish. Opcode=1|Length=19
+[2018-02-07 09:33:01]	INFO	[1] opcode=1
+[2018-02-07 09:33:01]	INFO	onMessage #1: {"cmd":"getOnline"}
+[2018-02-07 09:33:01]	INFO	NewFrame finish. Opcode=1|Length=20
+[2018-02-07 09:33:01]	INFO	[1] opcode=1
+[2018-02-07 10:14:04]	INFO	SwooleFramework[#0]. running. on 0.0.0.0:9503
+[2018-02-07 10:14:16]	INFO	WebSocket connection #1 is connected
+[2018-02-07 10:14:16]	INFO	NewFrame finish. Opcode=1|Length=15
+[2018-02-07 10:14:16]	INFO	[1] opcode=1
+[2018-02-07 10:14:16]	INFO	onMessage #1: {"cmd":"login"}
+[2018-02-07 10:14:16]	INFO	NewFrame finish. Opcode=1|Length=19
+[2018-02-07 10:14:16]	INFO	[1] opcode=1
+[2018-02-07 10:14:16]	INFO	onMessage #1: {"cmd":"getOnline"}
+[2018-02-07 10:14:16]	INFO	NewFrame finish. Opcode=1|Length=20
+[2018-02-07 10:14:16]	INFO	[1] opcode=1
+[2018-02-07 10:14:16]	INFO	onMessage #1: {"cmd":"getHistory"}
+[2018-02-07 10:14:17]	INFO	NewFrame finish. Opcode=8|Length=2
+[2018-02-07 10:14:17]	INFO	[1] opcode=8
+[2018-02-07 10:14:17]	INFO	server close connection[1]. reason: client active close, code=1001, close_code = 1002
+[2018-02-07 10:14:17]	INFO	onOffline: 1
+[2018-02-07 10:14:18]	INFO	WebSocket connection #2 is connected
+[2018-02-07 10:14:18]	INFO	NewFrame finish. Opcode=1|Length=15
+[2018-02-07 10:14:18]	INFO	[2] opcode=1
+[2018-02-07 10:14:18]	INFO	onMessage #2: {"cmd":"login"}
+[2018-02-07 10:14:18]	INFO	NewFrame finish. Opcode=1|Length=19
+[2018-02-07 10:14:18]	INFO	[2] opcode=1
+[2018-02-07 10:14:18]	INFO	onMessage #2: {"cmd":"getOnline"}
+[2018-02-07 10:14:18]	INFO	NewFrame finish. Opcode=1|Length=20
+[2018-02-07 10:14:18]	INFO	[2] opcode=1
+[2018-02-07 10:14:18]	INFO	onMessage #2: {"cmd":"getHistory"}
+[2018-02-07 10:14:19]	INFO	NewFrame finish. Opcode=8|Length=2
+[2018-02-07 10:14:19]	INFO	[2] opcode=8
+[2018-02-07 10:14:19]	INFO	server close connection[2]. reason: client active close, code=1001, close_code = 1002
+[2018-02-07 10:14:19]	INFO	onOffline: 2
+[2018-02-07 10:14:19]	INFO	WebSocket connection #3 is connected
+[2018-02-07 10:14:19]	INFO	NewFrame finish. Opcode=1|Length=15
+[2018-02-07 10:14:19]	INFO	[3] opcode=1
+[2018-02-07 10:14:19]	INFO	onMessage #3: {"cmd":"login"}
+[2018-02-07 10:14:19]	INFO	NewFrame finish. Opcode=1|Length=19
+[2018-02-07 10:14:19]	INFO	[3] opcode=1
+[2018-02-07 10:14:19]	INFO	onMessage #3: {"cmd":"getOnline"}
+[2018-02-07 10:14:19]	INFO	NewFrame finish. Opcode=1|Length=20
+[2018-02-07 10:14:19]	INFO	[3] opcode=1
+[2018-02-07 10:14:19]	INFO	onMessage #3: {"cmd":"getHistory"}
+[2018-02-07 10:15:21]	INFO	NewFrame finish. Opcode=8|Length=2
+[2018-02-07 10:15:21]	INFO	[3] opcode=8
+[2018-02-07 10:15:21]	INFO	server close connection[3]. reason: client active close, code=1001, close_code = 1002
+[2018-02-07 10:15:21]	INFO	onOffline: 3
+[2018-02-07 10:15:21]	INFO	WebSocket connection #4 is connected
+[2018-02-07 10:15:21]	INFO	NewFrame finish. Opcode=1|Length=15
+[2018-02-07 10:15:21]	INFO	[4] opcode=1
+[2018-02-07 10:15:21]	INFO	onMessage #4: {"cmd":"login"}
+[2018-02-07 10:15:21]	INFO	NewFrame finish. Opcode=1|Length=19
+[2018-02-07 10:15:21]	INFO	[4] opcode=1
+[2018-02-07 10:15:21]	INFO	onMessage #4: {"cmd":"getOnline"}
+[2018-02-07 10:15:21]	INFO	NewFrame finish. Opcode=1|Length=20
+[2018-02-07 10:15:21]	INFO	[4] opcode=1
+[2018-02-07 10:15:21]	INFO	onMessage #4: {"cmd":"getHistory"}
+[2018-02-07 10:15:24]	INFO	NewFrame finish. Opcode=8|Length=2
+[2018-02-07 10:15:24]	INFO	[4] opcode=8
+[2018-02-07 10:15:24]	INFO	server close connection[4]. reason: client active close, code=1001, close_code = 1002
+[2018-02-07 10:15:24]	INFO	onOffline: 4
+[2018-02-07 10:15:24]	INFO	WebSocket connection #5 is connected
+[2018-02-07 10:15:24]	INFO	NewFrame finish. Opcode=1|Length=15
+[2018-02-07 10:15:24]	INFO	[5] opcode=1

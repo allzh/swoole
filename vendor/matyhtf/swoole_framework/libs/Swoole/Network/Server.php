@@ -184,6 +184,7 @@ class Server extends Base implements Driver
             {
                 exit("Server is already running.\n");
             }
+            echo '启动成功...';
         }
         else
         {

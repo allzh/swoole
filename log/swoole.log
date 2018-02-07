@@ -111,3 +111,11 @@
 [2018-02-06 15:00:06 *4670.0]	NOTICE	swFactoryProcess_finish (ERROR 1004): send 34 byte failed, because connection[fd=3] is closed.
 [2018-02-06 15:03:50 *4670.0]	NOTICE	swFactoryProcess_finish (ERROR 1004): send 34 byte failed, because connection[fd=4] is closed.
 [2018-02-06 15:11:12 *4996.0]	NOTICE	swFactoryProcess_finish (ERROR 1004): send 34 byte failed, because connection[fd=1] is closed.
+[2018-02-07 09:31:53 *6177.0]	NOTICE	swFactoryProcess_finish (ERROR 1004): send 34 byte failed, because connection[fd=1] is closed.
+[2018-02-07 10:14:17 *28432.0]	NOTICE	swFactoryProcess_finish (ERROR 1004): send 34 byte failed, because connection[fd=1] is closed.
+[2018-02-07 10:14:19 *28432.0]	NOTICE	swFactoryProcess_finish (ERROR 1004): send 34 byte failed, because connection[fd=2] is closed.
+[2018-02-07 10:15:17 *28432.0]	WARNING	swSignalfd_onSignal: signal[1] callback is null.
+[2018-02-07 10:15:17 $28429.0]	WARNING	swSignal_callback: signal[1] callback is null.
+[2018-02-07 10:15:17 #28427.1]	WARNING	swSignalfd_onSignal: signal[1] callback is null.
+[2018-02-07 10:15:21 *28432.0]	NOTICE	swFactoryProcess_finish (ERROR 1004): send 34 byte failed, because connection[fd=3] is closed.
+[2018-02-07 10:15:24 *28432.0]	NOTICE	swFactoryProcess_finish (ERROR 1004): send 34 byte failed, because connection[fd=4] is closed.
